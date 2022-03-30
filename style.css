@@ -58,6 +58,12 @@ button{
 #button4:active, #button4.lit {
     background: #f8ebd8;
 }
+#button5 {
+    background: #656565;
+}
+#button5:active, #button5.lit {
+    background: #bfbfbf;
+}
 /*#startBtn {
 //    background: #7b8b6f;
 //    color: white;
