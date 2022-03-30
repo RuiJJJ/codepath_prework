@@ -38,6 +38,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+   
    1)Add images into my project: https://mica-web.github.io/learn/workflows/add-img-glitch
    2) How to add the image on the botton in HTML: https://stackoverflow.com/questions/17934332/how-do-i-position-an-image-at-the-bottom-of-div
 
