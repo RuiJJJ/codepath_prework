@@ -6,7 +6,7 @@ Submitted by: **Rui Jia**
 
 Time spent: **** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com/edit/#!/galvanized-literate-hummingbird)
+Link to project:  https://glitch.com/edit/#!/galvanized-literate-hummingbird
 
 ## Required Functionality
 
