@@ -4,7 +4,7 @@
 
 Submitted by: **Rui Jia**
 
-Time spent: **** hours spent in total
+Time spent: 7.5 hours spent in total
 
 Link to project:  https://glitch.com/edit/#!/galvanized-literate-hummingbird
 
